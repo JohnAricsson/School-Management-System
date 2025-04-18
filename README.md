@@ -2,13 +2,13 @@
 Created on - August, 2024.
 This was my first C# project using .Net framework, built to learn and implement the concepts of CRUD operations (Create, Read, Update, Delete). This project helped me gain a solid foundation in developing applications with user interfaces and working with real-time data.
 
-![Image](https://github.com/user-attachments/assets/ebb40856-1a6a-4cdb-82cd-31fcf77ce1ac)
-![Image](https://github.com/user-attachments/assets/7a9c305d-afe6-4d62-a7d7-daa2d0d2b870)
-![Image](https://github.com/user-attachments/assets/5d114dc0-accc-4471-bc77-66d8f07045b8)
-![Image](https://github.com/user-attachments/assets/cca8f68e-176e-4ec8-adea-a6fadf05d521)
-![Image](https://github.com/user-attachments/assets/f347bc6a-28c9-4fc3-b34a-43b62e208d99)
-![Image](https://github.com/user-attachments/assets/0d2f908d-d59a-4df9-b1a0-e6e70ba3218f)
-![Image](https://github.com/user-attachments/assets/3b6d87a1-42ad-4d52-8ee1-4e75a148a5c9)
-![Image](https://github.com/user-attachments/assets/84de9542-0075-44e4-93ca-9d5083194769)
-![Image](https://github.com/user-attachments/assets/4242fea2-529f-43c4-8995-b5ae3806eac3)
-![Image](https://github.com/user-attachments/assets/94b0f8d4-b18a-4a14-aa98-b74fa789c9da)
+![Image](https://github.com/user-attachments/assets/876d42a9-adf3-4cec-8b47-839d5d408c09)
+![Image](https://github.com/user-attachments/assets/d24f80b2-64a7-4be4-9df2-e1b8a9c8d201)
+![Image](https://github.com/user-attachments/assets/fde51230-566a-4ebe-ac20-be3c3d00caf3)
+![Image](https://github.com/user-attachments/assets/6d46d2a3-02de-4262-beb2-76edb350ecda)
+![Image](https://github.com/user-attachments/assets/c9f49368-d047-4c19-9de9-f72f5dd23f4e)
+![Image](https://github.com/user-attachments/assets/8952eb8d-adb3-4edf-a4c9-82825a5a3c1f)
+![Image](https://github.com/user-attachments/assets/ad60f66f-f196-4f93-b8da-d1ab01f6ecb0)
+![Image](https://github.com/user-attachments/assets/333b21e4-d1a6-414d-9837-6636929e8afb)
+![Image](https://github.com/user-attachments/assets/68adf961-a6ac-462f-b14d-072e45dcebb3)
+![Image](https://github.com/user-attachments/assets/13fe59e4-0ebc-428f-b0a2-662b931c4697)
