@@ -1,5 +1,5 @@
 # School-Management-System
-Created on - August, 2024.
+
 This was my first C# project using .Net framework, built to learn and implement the concepts of CRUD operations (Create, Read, Update, Delete). This project helped me gain a solid foundation in developing applications with user interfaces and working with real-time data.
 
 ![Image](https://github.com/user-attachments/assets/876d42a9-adf3-4cec-8b47-839d5d408c09)
